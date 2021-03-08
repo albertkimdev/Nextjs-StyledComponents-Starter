@@ -1,6 +1,6 @@
 # Built By React starter project
 
-This repo is a simple start project for [Built By React](https://builtbyreact.com) tutorials.
+This repo is a simple starter project for [Built By React](https://builtbyreact.com) tutorials.
 
 It comes with
 
